@@ -1,0 +1,6 @@
+name: Trinkleiste
+version: 1.0
+main: eu.phaenovum.it.minecraft.trinkleiste.Main
+api-version: 1.13
+author: Felix
+description: none
