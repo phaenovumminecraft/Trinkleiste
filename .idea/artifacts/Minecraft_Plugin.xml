@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Minecraft_Plugin">
+    <output-path>$USER_HOME$/Dokumente/Minecraf_Server/plugins</output-path>
+    <root id="archive" name="Minecraft_Plugin.jar">
+      <element id="module-output" name="TrinkleisteMinecraft" />
+    </root>
+  </artifact>
+</component>
