@@ -1,0 +1,5 @@
+name: Trinkleiste
+version: 1.0
+main: eu.joeken.it.minecraft.trinkleiste.Main
+api-version: 1.13
+author: Felix Joeken
